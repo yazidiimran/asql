@@ -1,0 +1,10 @@
+procedure max($a,$b)
+begin
+if $a>0 then
+echo $a;
+else
+echo $b;
+endif;
+end;
+
+call max($a=5,$b=10);

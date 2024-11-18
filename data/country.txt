@@ -1,0 +1,4 @@
+id,country
+1,maroc
+2,japan
+3,turkey

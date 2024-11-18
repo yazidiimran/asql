@@ -1,0 +1,6 @@
+id,city,id_country
+1,berkane,1
+2,oujda,1
+3,casa,1
+4,tokyo,2
+5,istanbul,3

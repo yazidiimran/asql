@@ -1,0 +1,13 @@
+echo 'hello to my first script !';
+echo "thnks for use this script!";
+for $i in 1..5 then
+echo $i+2;
+endfor;
+set $p=4;
+echo $p;
+if $p=4 then echo 'yes';
+else echo 'no';
+endif;
+echo 'Saisir qlq choses?';
+//set $line=readline();
+//echo 'bonjour '||$line;
